@@ -1,0 +1,124 @@
+Location,Name,PAHtotal,Phase,Region
+DIX,Dixon Island,573.3,Phase 1,WC Van Isld
+DIX,Dixon Island,95.61,Phase 2,WC Van Isld
+DIX,Dixon Island,259.51,Phase 3,WC Van Isld
+WCVI1,Grice Bay,982.15,Phase 1,WC Van Isld
+WCVI1,Grice Bay,102.74,Phase 2,WC Van Isld
+WCVI1,Grice Bay,70.7,Phase 3,WC Van Isld
+WCVI2,Lemmens inlet,130.22,Phase 1,WC Van Isld
+WCVI2,Lemmens inlet,9,Phase 2,WC Van Isld
+WCVI2,Lemmens inlet,11.62,Phase 3,WC Van Isld
+VH1,Victoria Harbour 1,26268.4,Phase 1,Victoria Harbour
+VH2,Victoria Harbour 2,47192.9,Phase 1,Victoria Harbour
+VH3,Victoria Harbour 3,21762.9,Phase 1,Victoria Harbour
+VH4,Victoria Harbour 4,20656.4,Phase 1,Victoria Harbour
+VH1,Victoria Harbour 1,22778.32,Phase 2,Victoria Harbour
+VH2,Victoria Harbour 2,52342.1,Phase 2,Victoria Harbour
+VH3,Victoria Harbour 3,16275.34,Phase 2,Victoria Harbour
+VH4,Victoria Harbour 4,18094.8,Phase 2,Victoria Harbour
+VH1,Victoria Harbour 1,20367.5,Phase 3,Victoria Harbour
+VH2,Victoria Harbour 2,40696.65,Phase 3,Victoria Harbour
+VH3,Victoria Harbour 3,17378.45,Phase 3,Victoria Harbour
+VH4,Victoria Harbour 4,21981.4,Phase 3,Victoria Harbour
+SAT,Saturna Island,547.72,Phase 1,Gulf Islands
+SAT,Saturna Island,599.63,Phase 2,Gulf Islands
+SAT,Saturna Island,541.19,Phase 3,Gulf Islands
+GINP1,Fulford Harbour 1,480.48,Phase 1,Gulf Islands
+GINP1,Fulford Harbour 1,510.64,Phase 2,Gulf Islands
+GINP1,Fulford Harbour 1,684.79,Phase 3,Gulf Islands
+GINP2,Fulford Harbour 2,540.58,Phase 1,Gulf Islands
+GINP2,Fulford Harbour 2,989.03,Phase 2,Gulf Islands
+GINP2,Fulford Harbour 2,720.98,Phase 3,Gulf Islands
+PB,Patricia Bay,205.222,Phase 1,Gulf Islands
+PB,Patricia Bay,382.144,Phase 2,Gulf Islands
+PB,Patricia Bay,495.826,Phase 3,Gulf Islands
+SBA1,Fraser River 2,196.1,Phase 1,Fraser River
+SBA1,Fraser River 2,207.2,Phase 2,Fraser River
+SBA1,Fraser River 2,210.4,Phase 3,Fraser River
+SBA2,Fraser River 3,423.1,Phase 1,Fraser River
+SBA2,Fraser River 3,186.9,Phase 2,Fraser River
+SBA2,Fraser River 3,438.1,Phase 3,Fraser River
+Site 5-2,Fraser River 4,751.3,Phase 1,Fraser River
+Site 5-2,Fraser River 4,217.2,Phase 2,Fraser River
+Site 5-2,Fraser River 4,1054,Phase 3,Fraser River
+Site 7-2,Fraser River 5,1049.7,Phase 1,Fraser River
+Site 7-2,Fraser River 5,171.3,Phase 2,Fraser River
+Site 7-2,Fraser River 5,737.9,Phase 3,Fraser River
+FR1,Fraser River 1,257.98,Phase 1,Fraser River
+FR1,Fraser River 1,115.5,Phase 2,Fraser River
+FR1,Fraser River 1,193.21,Phase 3,Fraser River
+SOA4,Burrard Inlet 8,4352,Phase 1,Burrard Inlet
+SOA4,Burrard Inlet 8,2586.9,Phase 2,Burrard Inlet
+SOA4,Burrard Inlet 8,3353.6,Phase 3,Burrard Inlet
+SOA5,Burrard Inlet 10,2234,Phase 1,Burrard Inlet
+SOA5,Burrard Inlet 10,1745.8,Phase 2,Burrard Inlet
+SOA5,Burrard Inlet 10,2467,Phase 3,Burrard Inlet
+SOA6,Burrard Inlet 11,1663.5,Phase 1,Burrard Inlet
+SOA6,Burrard Inlet 11,893.8,Phase 2,Burrard Inlet
+SOA6,Burrard Inlet 11,1621.1,Phase 3,Burrard Inlet
+SOA7,Burrard Inlet 12,10502.4,Phase 1,Burrard Inlet
+SOA7,Burrard Inlet 12,8125.73,Phase 2,Burrard Inlet
+SOA7,Burrard Inlet 12,6281.8,Phase 3,Burrard Inlet
+SOA8,Burrard Inlet 13,4144.2,Phase 1,Burrard Inlet
+SOA8,Burrard Inlet 13,2927.3,Phase 2,Burrard Inlet
+SOA8,Burrard Inlet 13,1541,Phase 3,Burrard Inlet
+SOA9,Burrard Inlet 14,11945.1,Phase 1,Burrard Inlet
+SOA9,Burrard Inlet 14,4117.1,Phase 2,Burrard Inlet
+SOA9,Burrard Inlet 14,17324.9,Phase 3,Burrard Inlet
+PMV1,Burrard Inlet 1,7721.45,Phase 1,Burrard Inlet
+PMV1,Burrard Inlet 1,7078.29,Phase 2,Burrard Inlet
+PMV1,Burrard Inlet 1,3606.07,Phase 3,Burrard Inlet
+PMV2,Burrard Inlet 2,6116.93,Phase 1,Burrard Inlet
+PMV2,Burrard Inlet 2,4520.71,Phase 2,Burrard Inlet
+PMV2,Burrard Inlet 2,4360.54,Phase 3,Burrard Inlet
+PMV3,Burrard Inlet 3,412.53,Phase 1,Burrard Inlet
+PMV3,Burrard Inlet 3,1248.9,Phase 2,Burrard Inlet
+PMV3,Burrard Inlet 3,1120.32,Phase 3,Burrard Inlet
+PMV4,Burrard Inlet 4,679.12,Phase 1,Burrard Inlet
+PMV4,Burrard Inlet 4,865.11,Phase 2,Burrard Inlet
+PMV4,Burrard Inlet 4,1921.96,Phase 3,Burrard Inlet
+PMV5,Burrard Inlet 5,15570.63,Phase 1,Burrard Inlet
+PMV5,Burrard Inlet 5,9005.25,Phase 2,Burrard Inlet
+PMV5,Burrard Inlet 5,11545.21,Phase 3,Burrard Inlet
+PMV6,Burrard Inlet 6,15137.26,Phase 1,Burrard Inlet
+PMV6,Burrard Inlet 6,24208.38,Phase 2,Burrard Inlet
+PMV6,Burrard Inlet 6,16606.22,Phase 3,Burrard Inlet
+PMV7,Burrard Inlet 7,6540.05,Phase 1,Burrard Inlet
+PMV7,Burrard Inlet 7,6673.67,Phase 2,Burrard Inlet
+PMV7,Burrard Inlet 7,4469.97,Phase 3,Burrard Inlet
+LG61,Howe Sound 1,97.1,Phase 1,Howe Sound
+LG61,Howe Sound 1,75.5,Phase 2,Howe Sound
+LG61,Howe Sound 1,81.1,Phase 3,Howe Sound
+SOA3,Howe Sound 3,2627.4,Phase 1,Howe Sound
+SOA3,Howe Sound 3,1498.8,Phase 2,Howe Sound
+SOA3,Howe Sound 3,2152.2,Phase 3,Howe Sound
+HS1,Howe Sound 2,103.12,Phase 1,Howe Sound
+HS1,Howe Sound 2,241.112,Phase 2,Howe Sound
+HS1,Howe Sound 2,55.69,Phase 3,Howe Sound
+IA1,Indian Arm 1,730.66,Phase 1,Indian Arm
+IA1,Indian Arm 1,647.7,Phase 2,Indian Arm
+IA1,Indian Arm 1,1369.51,Phase 3,Indian Arm
+IA2,Indian Arm 2,345.68,Phase 1,Indian Arm
+IA2,Indian Arm 2,328.65,Phase 2,Indian Arm
+IA2,Indian Arm 2,231.58,Phase 3,Indian Arm
+NWC1,Prince Rupert Harbour 1,161775,Phase 1,North Coast
+NWC1,Prince Rupert Harbour 1,64760.3,Phase 2,North Coast
+NWC1,Prince Rupert Harbour 1,46127.18,Phase 3,North Coast
+NWC2,Metlakatla,296.99,Phase 1,North Coast
+NWC2,Metlakatla,459.15,Phase 2,North Coast
+NWC2,Metlakatla,130.15,Phase 3,North Coast
+HG1,Armentieres Channel,348.02,Phase 1,Haida Gwaii
+HG1,Armentieres Channel,556.83,Phase 2,Haida Gwaii
+HG1,Armentieres Channel,357.77,Phase 3,Haida Gwaii
+HG2,Louscoone Inlet,607.39,Phase 1,Haida Gwaii
+HG2,Louscoone Inlet,774.99,Phase 2,Haida Gwaii
+HG2,Louscoone Inlet,511.22,Phase 3,Haida Gwaii
+HG4,Haswell Bay,240.3,Phase 1,Haida Gwaii
+HG4,Haswell Bay,370.09,Phase 2,Haida Gwaii
+HG4,Haswell Bay,95.79,Phase 3,Haida Gwaii
+HG5,Bischof Islands,312.12,Phase 1,Haida Gwaii
+HG5,Bischof Islands,729.92,Phase 2,Haida Gwaii
+HG5,Bischof Islands,126.83,Phase 3,Haida Gwaii
+HG6,Wiah Point,732.06,Phase 1,Haida Gwaii
+HG6,Wiah Point,1015.9,Phase 2,Haida Gwaii
+HG6,Wiah Point,5453.99,Phase 3,Haida Gwaii
