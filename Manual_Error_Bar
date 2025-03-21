@@ -1,0 +1,32 @@
+library(ggpubr)
+library(ggplot2)
+library(data.table)
+setwd("C:/Users/joseph.kim/OneDrive - Ocean Wise Conservation Association/Desktop/New folder")
+dt<-fread("sed_PAH_all_phasesPT_9regions.csv")
+
+#COMPUTE MEAN & STANDARD ERROR BY GROUP & PHASE
+dt_mean_se<-dt[,.(MEAN_VALUE=mean(PAHtotal),SE_VALUE=sd(PAHtotal)/sqrt(.N)),by=.(Region,Phase)]
+
+#MERGE dt & dt_mean_se
+dt_merge<-merge(dt,dt_mean_se,by=c("Region","Phase"),all.x=TRUE)
+
+#SELECT (REGION) FOR ERROR BAR
+dt_error_bar<-dt_merge[Region%in%c("WC Van Isld","Victoria Harbour","Gulf Islands","Fraser River","Burrard Inlet","Howe Sound","Haida Gwaii")]
+
+#BAR+GEOM
+bar_graph<-ggplot(dt_merge,aes(x=Region,y=PAHtotal,fill=Phase))+
+           geom_bar(stat="summary",fun="mean",position=position_dodge(0.8),width=0.7)+
+           scale_fill_manual(values=c("#FFFF00", "#FFA500", "#FF0000"))+
+           scale_y_continuous(name="Total PAHs (µg/kg dw)",limits=c(0, 200000))+
+           theme(legend.position="right")+
+           theme(axis.text.x=element_text(size=5))+
+           ggtitle("Total PAHs in Sediment")+
+           theme(plot.title=element_text(hjust=0.5,vjust=0))
+
+#BAR+JITTER
+bar_graph<-bar_graph+geom_jitter(aes(shape=Phase),position=position_jitterdodge(jitter.width=0.2,dodge.width=0.8),color="black",size=1)
+
+#BAR+ERROR
+bar_graph+geom_errorbar(data=dt_error_bar,
+                        aes(x=Region,ymin=MEAN_VALUE-SE_VALUE,ymax=MEAN_VALUE+SE_VALUE,group=Phase),
+                        width=0.2,color="black",linewidth=0.5,position=position_dodge(0.8),cap=0.5)
